@@ -325,22 +325,22 @@ a:focus {
 
 .service_img-container .service_img-box.i-box-1 {
   width: 60%;
-  background-image: url(../images/s-1.jpg);
+  background-image: url(../images/les.jpeg);
 }
 
 .service_img-container .service_img-box.i-box-2 {
   width: 40%;
-  background-image: url(../images/s-2.jpg);
+  background-image: url(../images/kopce.jpeg);
 }
 
 .service_img-container .service_img-box.i-box-3 {
   width: 40%;
-  background-image: url(../images/s-3.jpg);
+  background-image: url(../images/zdalky.jpeg);
 }
 
 .service_img-container .service_img-box.i-box-4 {
   width: 60%;
-  background-image: url(../images/s-4.jpg);
+  background-image: url(../images/pomnik.jpeg);
 }
 
 .service_section .service_img-container a,
@@ -404,6 +404,15 @@ a:focus {
   text-align: center;
   padding-top: 30px;
 }
+
+.security_section h6 {
+padding-left: 1rem;
+}
+
+.security_section h5 {
+  padding-left: 1rem;
+  }
+
 .security_section p {
   padding: 20px;
 }
@@ -503,31 +512,26 @@ a:focus {
 }
 
 .contact_form-container .contact_box {
-  background-color: #fff;
   padding: 35px 40px;
   width: 50%;
   height: 60%;
   margin: 100px 50px;
 }
 
-.contact_form-container form input,
-.contact_form-container form input:focus,
-.contact_form-container form input:active {
-  border: none;
-  background-color: transparent;
-  border-bottom: 1px solid #00cc99;
-  width: 85%;
-  margin-top: 12px;
-  outline: none;
+.contact_form-container .contact_box p {
+  color: #fefefe;
 }
 
-.contact_form-container form button {
-  border: none;
-  background-color: #254a93;
-  color: #fff;
-  padding: 8px 20px;
-  margin-top: 15px;
+.contact_form-container .contact_box p a {
+  color: #fefefe;
 }
+
+
+.contact_form-container .contact_box h2 {
+  color: #fefefe;
+  padding: 20px 0;
+}
+
 
 .contact_section .row .col-md-6 {
   padding: 0;
