@@ -325,22 +325,22 @@ a:focus {
 
 .service_img-container .service_img-box.i-box-1 {
   width: 60%;
-  background-image: url(../images/les.jpeg);
+  background-image: url(../images/hlavni1nasirku.jpg);
 }
 
 .service_img-container .service_img-box.i-box-2 {
   width: 40%;
-  background-image: url(../images/kopce.jpeg);
+  background-image: url(../images/hlavni2nasirku.jpg);
 }
 
 .service_img-container .service_img-box.i-box-3 {
   width: 40%;
-  background-image: url(../images/zdalky.jpeg);
+  background-image: url(../images/hlavni3nasirku.jpg);
 }
 
 .service_img-container .service_img-box.i-box-4 {
   width: 60%;
-  background-image: url(../images/pomnik.jpeg);
+  background-image: url(../images/hlavni4nasirku.jpg);
 }
 
 .service_section .service_img-container a,
