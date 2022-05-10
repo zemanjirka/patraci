@@ -259,6 +259,7 @@ a:focus {
 .welcome_detail p,
 .welcome_detail .welcome_detail-btn {
   margin-top: 25px;
+  margin-left: 25px;
 }
 
 .welcome_section .welcome_detail-btn a,
