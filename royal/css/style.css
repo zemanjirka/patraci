@@ -90,11 +90,11 @@ a:focus {
 
 /*end header section*/
 
-/* slider section */
+/* slider section  *//* padding-top: 84px; */
 
 .slider_section {
   height: calc(100vh - 90px);
-  padding-top: 84px;
+  padding-top: 40px;
 }
 
 .slider_section .carousel-indicators {
@@ -205,17 +205,23 @@ a:focus {
 /* end slider section */
 
 /* Aktuality section */
-.welcome_section {
-  padding-top: 12%;
+
+.nazpravodaj {
+  margin-left: 3rem;
 }
 
-.welcome_section .col-md-6 {
-  padding: 0 4%;
+.welcome_section {
+  padding-top: 12%;
+  
 }
 
 .welcome_detail {
-  width: 75%;
+  margin-left: 3rem;
 }
+.welcome_section .col-md-12 {
+  padding: 0 4%;
+}
+
 
 .welcome_detail h2 {
   text-transform: uppercase;
@@ -227,17 +233,11 @@ a:focus {
   text-transform: uppercase;
   color: #254a93;
   position: relative;
+  text-align: center;
+  text-decoration: underline #36bb25 2px;
 }
 
-.welcome_detail h3::after {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  content: "";
-  height: 1.5px;
-  width: 140px;
-  background-color: #36bb25;
-}
+
 
 .pripravujeme_detail h3 {
   text-transform: uppercase;
@@ -260,6 +260,7 @@ a:focus {
 .welcome_detail .welcome_detail-btn {
   margin-top: 25px;
   margin-left: 25px;
+  
 }
 
 .welcome_section .welcome_detail-btn a,
