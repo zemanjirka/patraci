@@ -145,7 +145,7 @@ a:focus {
 .slider_section .slider_box {
   display: flex;
   position: relative;
-  height: calc(100vh - 90px);
+  height: calc(100vh - 38px);
   background-image: url(../images/spolecna_mala.png);
   background-size: cover;
   background-repeat: no-repeat;
@@ -237,7 +237,9 @@ a:focus {
   text-decoration: underline #36bb25 2px;
 }
 
-
+.pripravujeme_detail {
+  padding-left: 3rem;
+}
 
 .pripravujeme_detail h3 {
   text-transform: uppercase;
